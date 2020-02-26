@@ -69,4 +69,8 @@
     .dd{
         grid-template-columns: 1fr;
     }
+    .one{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
 }
